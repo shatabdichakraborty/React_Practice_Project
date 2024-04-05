@@ -1,4 +1,4 @@
-# basic readme template
+# hi there
 # Project Name
 
 A brief description of your project.
